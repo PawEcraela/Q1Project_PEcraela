@@ -1,0 +1,30 @@
+#Answerform{
+	background-color: #FFFFF7;
+	width:300px; height: 370px;
+	padding: 40px;
+	margin: auto;
+	box-shadow: 2px 3px 5px rgba(212, 204, 190);
+}
+#submit{
+	border-radius:10px;
+	border-color: white;
+	color: #4c7455;
+	cursor: pointer;
+}
+.Home {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    size: 30px;
+}
+
+.nav-link {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #4c7455;
+    font-size: 30px;
+}
+
+.nav-link:hover {
+    text-decoration: underline; /* Underline on hover */
+}
